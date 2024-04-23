@@ -16,18 +16,12 @@ Each topic folder contains relevant files named intuitively. Simply navigate to 
 
 ## Additional Resources:
 
-- [YouTube Playlist on C++ Basics](#): Watch a series of tutorial videos covering the basics of C++ programming language.
+- [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y?si=BezWl1fjWX6D6ULU): Watch the C++ tutorial video made by Mike Dane covering the basics of C++ programming language.
 
-- [Online Tutorial on OOP in C++](#): Access an in-depth tutorial on Object-Oriented Programming concepts in C++.
+- [Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=3): Access an in-depth tutorial on Object-Oriented Programming concepts in C++ made by Saldina Nurak.
 
-- [Tutorial on Data Structures in C++](#): Learn about various data structures and their implementation in C++ through a detailed online tutorial.
+- [Pointers in C / C++ - Full Course](https://www.youtube.com/watch?v=zuegQmMdy8M&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=7): Pointers in C and C++ are often challenging to understand. In this course, they will be demystified, allowing you to use pointers more effectively in your code. The concepts you learn in this course apply to both C and  C++.
 
-## Contribution:
-
-Feel free to contribute to this repository by adding more files, correcting errors, or suggesting improvements. Your contributions are highly appreciated!
-
-## License:
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use the materials for personal or educational purposes.
+- [Data Structures - Full Course Using C and C++](https://www.youtube.com/watch?v=B31LgI4Y4DQ&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=6): Learn about various data structures and their implementation in C++ through a detailed online tutorial.
 
 Happy Coding! 😊
