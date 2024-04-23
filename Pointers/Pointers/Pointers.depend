@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663239686 source:c:\users\user\desktop\pointers\pointers\main.cpp
+	<iostream>
+
+1674405536 source:c:\users\user\desktop\c++\pointers\pointers\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

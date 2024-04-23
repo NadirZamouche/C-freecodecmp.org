@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675121541 source:c:\users\user\desktop\c++\data structures\data structures\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
